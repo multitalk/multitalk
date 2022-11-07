@@ -24,7 +24,7 @@ and I am mainly engaged in the research of single-cell and spatial omics, cell-c
 ---
 - If you are interested in more details, check out [my website](https://person.zju.edu.cn/shaoxin)!
 
-### Welcome to Fan's Lab 💪
+### Welcome to [Fan's Lab](http://tcm.zju.edu.cn/) 💪
 
-
+<img src='https://github.com/shaoxin0801/shaoxin0801/blob/main/img/FanLab.png'>
 
