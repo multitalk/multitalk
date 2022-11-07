@@ -2,15 +2,11 @@
 
 and I am mainly engaged in the research of single-cell and spatial omics, cell-cell communication, and liver disease omics with machine learning and deep learning methods.
 
----
-
 ### Study and work experience 🎓
 
 - 2021-present, [Hangzhou First People's Hospital Affiliated to Zhejiang University School of Medicine](https://www.hz-hospital.com/), Postdoc. (Supervisor: [Prof. Xu, Xiao](https://person.zju.edu.cn/0097425)/[Prof. Fan, Xiaohui](https://person.zju.edu.cn/fanxh))
-- 2015-2021 Zhejiang University, Ph.D. degree (Supervisor: [Prof. Fan, Xiaohui](https://person.zju.edu.cn/fanxh))
-- 2011-2015 Zhejiang University, Bachelor degree
-
----
+- 2015-2021, [Zhejiang University](https://www.zju.edu.cn/), Ph.D. degree (Supervisor: [Prof. Fan, Xiaohui](https://person.zju.edu.cn/fanxh))
+- 2011-2015, [Zhejiang University](https://www.zju.edu.cn/), Bachelor degree
 
 ### Main research articles 📑
 
