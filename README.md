@@ -19,7 +19,7 @@ and I am mainly engaged in the research of single-cell and spatial omics, cell-c
 - __Shao X__, Liao J, Lu X, Xue R, Ai N, Fan X*. [scCATCH: Automatic Annotation on Cell Types of Clusters from Single-Cell RNA Sequencing Data](https://www.sciencedirect.com/science/article/pii/S2589004220300663). iScience. 2020;23(3):100882.
 - __Shao X†__, Wang Y†, Lu X†, Hu Y, Liao J, Li J, Chen X, Yu Y, Ai N, Ying M, Fan X*. [A Clinical Genomics-Guided Prioritizing Strategy Enables Selecting Proper Cancer Cell Lines for Biomedical Research](https://linkinghub.elsevier.com/retrieve/pii/S2589-0042(20)30945-7). iScience. 2020. 23(11):101748.
 - __Shao X__, Lv N, Liao J, Long J, Xue R, Ai N, Xu D*, Fan X*. [Copy number variation is highly correlated with differential gene expression: a pan-cancer study](https://bmcmedgenet.biomedcentral.com/articles/10.1186/s12881-019-0909-5). BMC Med. Genet. 2019. 20(1):175.
-- __Shao X__, Ai N*, Xu D, Fan X*. [Exploring the interaction between Salvia miltiorrhiza and human serum albumin: Insights from herb-drug interaction reports, computational analysis and experimental studies](https://linkinghub.elsevier.com/retrieve/pii/S1386-1425(16)30070-1). Spectrochim Acta A Mol Biomol Spectrosc. 2016. 161:1-7.
+- __Shao X__, Ai N*, Xu D*, Fan X. [Exploring the interaction between Salvia miltiorrhiza and human serum albumin: Insights from herb-drug interaction reports, computational analysis and experimental studies](https://linkinghub.elsevier.com/retrieve/pii/S1386-1425(16)30070-1). Spectrochim Acta A Mol Biomol Spectrosc. 2016. 161:1-7.
 
 ---
 - If you are interested in more details, check out [my website](https://person.zju.edu.cn/shaoxin)!
