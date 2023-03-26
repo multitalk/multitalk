@@ -4,12 +4,6 @@ and I am mainly engaged in the research of single-cell and spatial omics, cell-c
 
 ---
 
-### Study and work experience 🎓
-- 2022-present, [Hangzhou First People's Hospital Affiliated to Zhejiang University School of Medicine](https://www.hz-hospital.com/), Research Associate.
-- 2021-present, [Hangzhou First People's Hospital Affiliated to Zhejiang University School of Medicine](https://www.hz-hospital.com/), Postdoc. (Supervisor: [Prof. Xu, Xiao](https://person.zju.edu.cn/0097425)/[Prof. Fan, Xiaohui](https://person.zju.edu.cn/fanxh))
-- 2015-2021, [Zhejiang University](https://www.zju.edu.cn/), Ph.D. degree (Supervisor: [Prof. Fan, Xiaohui](https://person.zju.edu.cn/fanxh))
-- 2011-2015, [Zhejiang University](https://www.zju.edu.cn/), Bachelor degree
-
 ### Main research articles 📑
 
 - __Shao X†__, Li C†, Yang H†, Lu X, Liao J, Qian J, Wang K, Cheng J, Yang P, Chen H*, Xu X*, Fan X*. [Knowledge-graph-based cell-cell communication inference for spatially resolved transcriptomic data with SpaTalk](https://www.nature.com/articles/s41467-022-32111-8). Nat. Commun. 2022. 13(1):4429.
