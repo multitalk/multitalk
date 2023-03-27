@@ -1,4 +1,4 @@
-### Hi there, I am Shao, Xin 👏
+### Hi there, I am Shao, Xin 🎓
 
 and I am mainly engaged in the research of single-cell and spatial omics, cell-cell communication, and liver disease omics with machine learning and deep learning methods.
 
